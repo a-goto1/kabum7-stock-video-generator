@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+
+# Outputs
+output/
+*.mp4
+*.mp3
+*.jpg
+*.jpeg
+*.png
+*.pdf
+
+# Font files
+*.ttf
+*.otf
+
+# OS files
+.DS_Store
+Thumbs.db
