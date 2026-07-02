@@ -61,7 +61,7 @@ kabum7/
 ├── step3_create_clips.py       # JPG+音声 → MP4クリップ作成
 ├── step4_concatenate.py        # MP4クリップ連結
 ├── assets/
-│   └── ipag.ttf                # 日本語表示用フォント
+│   └── ipag.ttf                # 日本語表示用フォント（各自で配置）
 ├── requirements.txt
 └── run_kabum7.bat
 ```
